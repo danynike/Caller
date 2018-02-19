@@ -12,7 +12,7 @@ import com.almundo.util.ServiceConf;
 import com.almundo.util.Status;
 
 /**
- * Clase para monitorear los agentes y las llamadas
+ * Clase para monitorear los agentes y las llamadas, empezando la llamada y finalizando la misma
  * @author ADMIN
  *
  */
